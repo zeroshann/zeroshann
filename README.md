@@ -9,7 +9,7 @@ I'm a Computer Science student passionate about building practical software solu
 ## 🚀 About Me
 
 * 🎓 Computer Science Student
-* 🌱 Currently learning Python, C++, Data Structures & Algorithms
+* 🌱 Currently learning Python, C++, Java, and JS
 * 💡 Interested in Software Development, Artificial Intelligence, and Full-Stack Development
 * 🛠️ Building projects to strengthen my problem-solving skills
 * 📫 Reach me at **[carroshine153@gmail.com](mailto:carroshine153@gmail.com)**
@@ -27,7 +27,7 @@ I'm a Computer Science student passionate about building practical software solu
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
 </p>
 
 ---
@@ -64,10 +64,9 @@ I'm a Computer Science student passionate about building practical software solu
 
 ## 🎯 Goals for 2026
 
-* 📚 Master Data Structures & Algorithms
-* 💻 Build more full-stack and desktop applications
-* 🌍 Contribute to open-source projects
-* 🚀 Continuously improve as a software developer
+* 📚 Master C++ and Python
+* 💻 Build more systems and projects 
+* 🚀 Continue to improve my skills
 
 ---
 
