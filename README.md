@@ -27,7 +27,7 @@ I'm a Computer Science student passionate about building practical software solu
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,Excel" />
 </p>
 
 ---
@@ -41,14 +41,6 @@ I'm a Computer Science student passionate about building practical software solu
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zeroshann&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zeroshann&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
