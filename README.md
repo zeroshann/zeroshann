@@ -27,7 +27,7 @@ I'm a Computer Science student passionate about building practical software solu
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,arduino" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Microsoft Excel" height="48"/>
 </p>
 
