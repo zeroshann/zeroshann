@@ -27,7 +27,7 @@ I'm a Computer Science student passionate about building practical software solu
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,Excel" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,excel" />
 </p>
 
 ---
