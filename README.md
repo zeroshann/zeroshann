@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Shan
+# Hi there, I'm Shan!
 
 ### 💻 Computer Science Student | Aspiring to be YOURS
 
