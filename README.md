@@ -10,7 +10,7 @@ I'm a Computer Science student passionate about building practical software solu
 
 - 🎓 Computer Science Student
 - 🌱 Currently learning **Python, C++, Java, HTML, CSS, and JavaScript**
-- 💡 Interested in **Software Development, Artificial Intelligence, and Full-Stack Development**
+- 💡 Interested in **Software Development, Artificial Intelligence, and Web Development**
 - 🛠️ Building projects to strengthen my problem-solving and programming skills
 - 📫 Reach me at **[carroshine153@gmail.com](mailto:carroshine153@gmail.com)**
 
