@@ -21,7 +21,7 @@ I'm a Computer Science student passionate about building practical software solu
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,java" />
 </p>
 
 ### Tools & Technologies
