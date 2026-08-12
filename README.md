@@ -1,4 +1,4 @@
-# Hi there, I'm Shan!👾
+<h1 align="center">Hi there, I'm Shan!👾</h1>
 
 ### 💻 Computer Science Student | Aspiring to be WEB DEV and to be YOUR.
 
@@ -36,8 +36,8 @@ I'm a Computer Science student passionate about building practical software solu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeroshann&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zeroshann&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeroshann&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroshann&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
