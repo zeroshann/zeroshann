@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shan!👾</h1>
 
-### 💻 Computer Science Student | Aspiring to be WEB DEV and to be YOUR.
+### 💻 Computer Science Student | Aspiring to be WEB DEV and to be YOURS.
 
 I'm a Computer Science student passionate about building practical software solutions and continuously improving my programming skills. I enjoy creating projects that solve real-world problems while expanding my knowledge in software development, algorithms, and modern technologies.
 
