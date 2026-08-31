@@ -1,18 +1,19 @@
-<h1 align="center">Hi there, I'm Shan!👾</h1>
+<h1 align="center">Hi there, I'm Shan! 👾</h1>
 
-### 💻 Computer Science Student | Aspiring to be WEB DEV and to be YOURS.
+<h3 align="center">💻 Computer Science Student | Future Software Developer | Robotics | Wanna be YOURS </h3>
 
-I'm a Computer Science student passionate about building practical software solutions and continuously improving my programming skills. I enjoy creating projects that solve real-world problems while expanding my knowledge in software development, algorithms, and modern technologies.
+I'm a Computer Science student at Batangas State University who enjoys building software and embedded systems that solve real-world problems. My interests range from software development and web technologies to robotics and Arduino, and I'm constantly expanding my knowledge through hands-on projects, continuous learning, and community involvement.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 🌱 Currently learning **Python, C++, Java, HTML, CSS, and JavaScript**
-- 💡 Interested in **Software Development, Artificial Intelligence, and Web Development**
-- 🛠️ Building projects to strengthen my problem-solving and programming skills
-- 📫 Reach me at **[carroshine153@gmail.com](mailto:carroshine153@gmail.com)**
+- 🎓 BS Computer Science student at **Batangas State University**
+- 💻 Passionate about **Software Development, Web Development, Robotics, and Embedded Systems**
+- 🌱 Currently learning **Python, C++, Java, HTML, CSS, JavaScript, and Arduino**
+- 📚 Continuously improving my knowledge in **Data Structures & Algorithms**
+- 🤝 Active member of student organizations and the local developer community
+- 🚀 Open to internships, collaborations, and learning opportunities
 
 ---
 
@@ -21,22 +22,30 @@ I'm a Computer Science student passionate about building practical software solu
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,java" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript" />
 </p>
 
 ### Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=github,vscode,arduino" />
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" alt="Microsoft Excel" height="48"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48"/>
 </p>
+
+### Currently Exploring
+
+- 🤖 Robotics
+- ⚡ Arduino
+- 🌐 Web Development
+- 📊 Data Structures & Algorithms
+- 🧠 Artificial Intelligence
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeroshann&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zeroshann&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroshann&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -48,19 +57,44 @@ I'm a Computer Science student passionate about building practical software solu
 
 ## 🌟 Featured Projects
 
-- 🍔 **QuickServe** – Fast-food queue management system built with C++
-- 🅿️ **Parking Lot Management & Tracking System** – Python-based parking monitoring application
-- 💰 **Expense Tracking System** – Personal finance tracking application
-- 📚 **Practice Coding** – Collection of programming exercises and algorithm implementations
+🍔 **QuickServe**  
+Console-based queue management system using Queue, Priority Queue, and Stack in C++.
+
+🅿️ **Parking Lot Management & Tracking System**  
+Python and Tkinter application for monitoring parking availability in real time.
+
+🌱 **MoisTer**  
+Arduino-based autonomous soil monitoring robot with an automated watering system.
+
+🌪️ **ReadiSaster**  
+A responsive disaster preparedness website built using HTML and CSS.
 
 ---
 
-## 🎯 Goals for 2026
+## 🏆 Certifications & Achievements
 
-- 📚 Master **C++** and **Python**
-- 💻 Build more real-world software projects
-- 🌱 Learn development tools and frameworks
-- 🚀 Improve my skills
+- 🥇 National Robotics Competition Finalist (2024)
+- 📜 Cisco HTML Essentials
+- 📜 Cisco CSS Essentials
+- 🎓 With High Honors (Senior High School)
+
+---
+
+## 🤝 Organizations
+
+- DevCon Laguna
+- College of Informatics and Computing Sciences Student Council (CICS-SC)
+- Association of Committed Computer Science Students (ACCESS)
+
+---
+
+## 🎯 Goals
+
+- 🚀 Build impactful software and embedded systems projects
+- 💼 Land a Software Engineering internship
+- 🌱 Master C++, Python, Java, and JavaScript
+- 📚 Strengthen my knowledge in DSA and system design
+- 🤖 Explore AI, IoT, and Robotics
 
 ---
 
@@ -68,16 +102,16 @@ I'm a Computer Science student passionate about building practical software solu
 
 <p align="left">
   <a href="mailto:carroshine153@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/kristiancarro" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/kristiancarro">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile! Let's connect and build something amazing together.
 </p>
