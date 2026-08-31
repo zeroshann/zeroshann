@@ -22,7 +22,7 @@ I'm a Computer Science student at Batangas State University who enjoys building 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css" />
 </p>
 
 ### Tools & Technologies
