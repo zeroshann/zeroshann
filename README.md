@@ -71,23 +71,6 @@ A responsive disaster preparedness website built using HTML and CSS.
 
 ---
 
-## 🏆 Certifications & Achievements
-
-- 🥇 National Robotics Competition Finalist (2024)
-- 📜 Cisco HTML Essentials
-- 📜 Cisco CSS Essentials
-- 🎓 With High Honors (Senior High School)
-
----
-
-## 🤝 Organizations
-
-- DevCon Laguna
-- College of Informatics and Computing Sciences Student Council (CICS-SC)
-- Association of Committed Computer Science Students (ACCESS)
-
----
-
 ## 🎯 Goals
 
 - 🚀 Build impactful software and embedded systems projects
