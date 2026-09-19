@@ -28,7 +28,7 @@ I'm a Computer Science student at Batangas State University who enjoys building 
 ### Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,arduino" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,arduino,vercel" />
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48"/>
 </p>
 
