@@ -4,11 +4,6 @@
 
 I'm a Computer Science student at Batangas State University who enjoys building software and embedded systems that solve real-world problems. My interests range from software development and web technologies to robotics and Arduino, and I'm constantly expanding my knowledge through hands-on projects, continuous learning, and community involvement.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeroshann&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/zeroshann?label=Followers&style=flat&color=blue"/>
-</p>
-
 ---
 
 ## 🚀 About Me
