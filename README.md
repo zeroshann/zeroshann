@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Shan! 👾</h1>
 
-<h3 align="center">💻 Computer Science Student | Future Software Developer | Robotics | Wanna be YOURS </h3>
+<h3 align="center">💻 Computer Science Student | Future Software Developer | Robotics | Wanna be YOURS. </h3>
 
 I'm a Computer Science student at Batangas State University who enjoys building software and embedded systems that solve real-world problems. My interests range from software development and web technologies to robotics and Arduino, and I'm constantly expanding my knowledge through hands-on projects, continuous learning, and community involvement.
 
