@@ -10,7 +10,7 @@ I'm a Computer Science student at Batangas State University who enjoys building 
 
 - 🎓 BS Computer Science student at **Batangas State University**
 - 💻 Passionate about **Software Development, Web Development, Robotics, and Embedded Systems**
-- 🌱 Currently learning **Python, C++, Java, HTML, CSS, JavaScript, and Arduino**
+- 🌱 Currently learning **Python, C++, Java, HTML, CSS, JavaScript, Figma, and Arduino**
 - 📚 Continuously improving my knowledge in **Data Structures & Algorithms**
 - 🤝 Active member of student organizations and the local developer community
 - 🚀 Open to internships, collaborations, and learning opportunities
