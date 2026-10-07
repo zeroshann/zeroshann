@@ -39,6 +39,7 @@ I'm a Computer Science student at Batangas State University who enjoys building 
 - 🌐 Web Development
 - 📊 Data Structures & Algorithms
 - 🧠 Artificial Intelligence
+- 🎨 Figma
 
 ---
 
